@@ -18,5 +18,5 @@ Como este é um projeto web estático, não é necessário instalar nenhuma depe
 
  ## 🌐 Teste o Projeto Online
 
-Você pode testar a Calculadora de IMC funcionando diretamente no navegador através deste link:
+Você pode testar a Calculadora de IMC  através deste link:
 👉 **[Acessar a Calculadora de IMC](https://ramonsantos33.github.io/Calculador-de-IMC-/)**
