@@ -15,3 +15,8 @@ Como este é um projeto web estático, não é necessário instalar nenhuma depe
 1. Faça o download deste repositório em formato ZIP ou faça o clone via Git.
 2. Extraia a pasta na sua máquina.
 3. Dê um duplo clique no arquivo `index.html` para abri-lo diretamente no seu navegador de preferência (Chrome, Edge, Firefox, etc.).
+
+ ## 🌐 Teste o Projeto Online
+
+Você pode testar a Calculadora de IMC funcionando diretamente no navegador através deste link:
+👉 **[Acessar a Calculadora de IMC](https://ramonsantos33.github.io/Calculador-de-IMC-/)**
