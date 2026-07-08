@@ -14,7 +14,7 @@ Como este é um projeto web estático, não é necessário instalar nenhuma depe
 
 1. Faça o download deste repositório em formato ZIP ou faça o clone via Git.
 2. Extraia a pasta na sua máquina.
-3. Dê um duplo clique no arquivo `index.html` para abri-lo diretamente no seu navegador de preferência (Chrome, Edge, Firefox, etc.).
+3. Dê um duplo clique no arquivo `index.html` para abri-lo diretamente no seu navegador de preferência .
 
  ## 🌐 Teste o Projeto Online
 
